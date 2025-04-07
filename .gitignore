@@ -1,0 +1,29 @@
+# Unity
+Library/
+Temp/
+Obj/
+Build/
+Logs/
+UserSettings/
+MemoryCaptures/
+
+# Visual Studio / VSCode
+.vscode/
+.vs/
+*.csproj
+*.sln
+*.user
+*.suo
+
+# Unity Version Control (Plastic SCM)
+.plastic/
+
+# OS / Sistem
+.DS_Store
+Thumbs.db
+
+# File build dan sensitive
+*.apk
+*.aab
+*.keystore
+*.db

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="haticopy2" size="1.000000 0.728370" />
+    <ImageTarget name="ususkecil" size="1.000000 1.036574" />
+    <ImageTarget name="ginjal" size="1.000000 1.241145" />
+    <ImageTarget name="vagina" size="1.000000 0.570640" />
+    <ImageTarget name="ususbesar" size="1.000000 0.901015" />
+    <ImageTarget name="tulangbelakang" size="1.000000 1.066738" />
+    <ImageTarget name="trakea" size="1.000000 1.324423" />
+    <ImageTarget name="panggul" size="1.000000 0.709877" />
+    <ImageTarget name="otak" size="1.000000 0.878413" />
+    <ImageTarget name="lambungcopy" size="1.000000 0.828043" />
+    <ImageTarget name="kerangka" size="1.000000 0.843750" />
+    <ImageTarget name="jantung" size="1.000000 1.210351" />
+  </Tracking>
+</QCARConfig>
